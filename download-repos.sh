@@ -6,7 +6,7 @@ declare -A projects
 # Define the repositories in each project
 projects["rhattox-ansible,ansible-kubernetes"]="git@github.com:rhattox-ansible/ansible-kubernetes.git"
 projects["rhattox-ansible,ansible-k8s-arc-runner"]="git@github.com:rhattox-ansible/ansible-k8s-arc-runner.git"
-projects["rhattox-ansible,ansible-argocd"]="git@github.com:rhattox-ansible/ansible-argocd.git"
+projects["rhattox-ansible,ansible-k8s-argocd"]="git@github.com:rhattox-ansible/ansible-k8s-argocd.git"
 projects["rhattox-ansible,ansible-ansible"]="git@github.com:rhattox-ansible/ansible-ansible.git"
 projects["rhattox-ansible,ansible-docker"]="git@github.com:rhattox-ansible/ansible-docker.git"
 projects["rhattox-ansible,ansible-nexus"]="git@github.com:rhattox-ansible/ansible-nexus.git"
